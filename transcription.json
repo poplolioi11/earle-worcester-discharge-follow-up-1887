@@ -1,0 +1,815 @@
+{
+  "source_title": "It is the End that Crowns the Work",
+  "title_zh": "伍斯特精神病院的離院後追蹤（1887）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://archive.org/details/39002086346526.med.yale.edu/page/n110/mode/1up",
+  "manifest": "https://archive.org/metadata/39002086346526.med.yale.edu",
+  "source_ocr": "https://archive.org/details/39002086346526.med.yale.edu",
+  "shelfmark": "Yale item 39002086346526 / ark:/13960/t7hq50k9g",
+  "source_provider": "Yale University Library",
+  "historical_institution": "Pliny Earle",
+  "imprint": "The Curability of Insanity: A Series of Studies, Study Fourth. Philadelphia: J. B. Lippincott, 1887, pp. 105–120",
+  "rights": "The nineteenth-century text is in the public domain in the United States. The source scans are linked for verification. CC BY 4.0 applies to new editorial material and encoding wherever copyright applies.",
+  "coverage_note": "Complete separately headed section in Study Fourth, 1887 edition, pp. 105–120. Page 105 begins at this section heading and page 120 ends at its concluding question. Includes the table on p. 107 and the note on p. 109.",
+  "frames": [
+    {
+      "id": "f001",
+      "frame": 1,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n110/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n110/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n110/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "354143165bb3e6526cfedead7bb822b51146420d934903cff4f87c618c78315f"
+      },
+      "parts": [
+        {
+          "id": "f001-s",
+          "side": "S",
+          "printed_page": "105",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "IT IS THE END THAT CROWNS THE WORK.—In a\nrecently published pamphlet entitled “Recoveries from\nMental Disease,“which will receive more prolonged\nattention farther on, the author, Dr. Isaac Ray, writes\nas follows:\n\n“While it appears that once almost every patient\nrecently attacked recovered, our statistics show that\nnow, taking our hospitals together, hardly half of them\nhave been so fortunate.”\n\nThe object of this section is to recall to notice a few",
+              "id": "f001-s-u01"
+            }
+          ],
+          "notes": [
+            "Begins at the named heading on p. 105, after the preceding section’s paragraphs."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f002",
+      "frame": 2,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n111/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n111/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n111/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "0b22ef1903182f46301350d80e3704b718794cc5c6b5dba9990f60978914c83a"
+      },
+      "parts": [
+        {
+          "id": "f002-s",
+          "side": "S",
+          "printed_page": "106",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "of those recoveries of the insane which took place not\nless than thirty-five years ago, at a time included in\nthat period to which Dr. Ray alludes as one that was so\nexceedingly favorable to restoration from mental disor-\nders. We may thus, perhaps, be enabled to ascertain\nthe true character of those recoveries.\n\nIn an examination, a few months ago, of a reprint,\nin 1863, of the previously published reports of the\nIllinois Hospital for the Insane, I met a table copied\nfrom the report of the Worcester Lunatic Hospital for\n1843, and republished in connection with a memorial\nby Miss Dix, for the purpose of showing the remark-\nable advantage, pecuniarily, of the treatment of insanity\nin its early stages. It presents two columns, or series\nof cases, twenty-five in each. Those in the first column\nwere chronic and incurable; those in the second were\nrecent, and had been discharged—all of them “recov-\nered”—from the said hospital, in the course of the\nofficial year covered by the report.\n\nThe official year at that time ended with the 30th of\nNovember, and not, as now, with the 30th of September.\n\nWhile studying the table, it occurred to me that it\nwould be interesting to know the history, subsequent to\ntheir discharge, of the twenty-five persons who recov-\nered after so short a period of treatment, and at so\ntrifling an expense. Such was the inception of this\nchapter, and this the cause for the selection of the table\nof 1843, in preference to either of its predecessors.\nThe first table of the kind was published, if I mistake\nnot, in the Worcester report for 1837–38. The practice\nwas continued for a series of years, and was adopted at\nvarious other institutions of the kind. Indeed, the",
+              "id": "f002-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f003",
+      "frame": 3,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n112/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n112/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n112/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "268b567ea24d2669f8ce18380366a9be71472580636eed1a39f806e33d68a7a0"
+      },
+      "parts": [
+        {
+          "id": "f003-s",
+          "side": "S",
+          "printed_page": "107",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "report for 1843, which contains the table, gives the\nresults of similar tables at the State hospitals of Maine,\nOhio, and Virginia. The table is here introduced, in\norder that the reader may obtain a clear understanding\nof the subject.",
+              "id": "f003-s-u01"
+            },
+            {
+              "kind": "subtitle",
+              "text": "From which we learn the Economy of placing Patients in Institutions in the early periods of Disease.",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "table",
+              "title": "TABLE SHOWING THE COMPARATIVE EXPENSE OF SUPPORTING OLD AND RECENT CASES OF INSANITY.",
+              "rows": [
+                [
+                  "No. of the Old Cases.",
+                  "Present Age.",
+                  "Time Insane.",
+                  "Total Expense at $100 a year before entering the Hospital, and $132 a year since; last year, $120.",
+                  "No. of the Recent Cases discharged.",
+                  "Present Age.",
+                  "Time Insane.",
+                  "Cost of Support at $2.30 per week."
+                ],
+                [
+                  "2",
+                  "69",
+                  "28 yrs.",
+                  "$3,212.00",
+                  "1622",
+                  "30",
+                  "7 wks.",
+                  "$16.10"
+                ],
+                [
+                  "7",
+                  "48",
+                  "17 “",
+                  "2,004.00",
+                  "1624",
+                  "34",
+                  "20 “",
+                  "46.00"
+                ],
+                [
+                  "8",
+                  "60",
+                  "21 “",
+                  "2,504.00",
+                  "1625",
+                  "51",
+                  "32 “",
+                  "73.60"
+                ],
+                [
+                  "12",
+                  "47",
+                  "25 “",
+                  "2,894.00",
+                  "1635",
+                  "23",
+                  "28 “",
+                  "64.40"
+                ],
+                [
+                  "18",
+                  "71",
+                  "34 “",
+                  "3,794.00",
+                  "1642",
+                  "42",
+                  "40 “",
+                  "92.00"
+                ],
+                [
+                  "19",
+                  "59",
+                  "18 “",
+                  "2,204.00",
+                  "1643",
+                  "55",
+                  "14 “",
+                  "32.20"
+                ],
+                [
+                  "21",
+                  "39",
+                  "16 “",
+                  "1,993.00",
+                  "1645",
+                  "63",
+                  "36 “",
+                  "82.80"
+                ],
+                [
+                  "27",
+                  "47",
+                  "16 “",
+                  "1,994.00",
+                  "1649",
+                  "22",
+                  "40 “",
+                  "92.00"
+                ],
+                [
+                  "44",
+                  "56",
+                  "26 “",
+                  "2,982.00",
+                  "1650",
+                  "36",
+                  "28 “",
+                  "64.40"
+                ],
+                [
+                  "45",
+                  "60",
+                  "25 “",
+                  "2,835.00",
+                  "1658",
+                  "36",
+                  "14 “",
+                  "32.20"
+                ],
+                [
+                  "102",
+                  "53",
+                  "25 “",
+                  "2,833.00",
+                  "1660",
+                  "21",
+                  "16 “",
+                  "36.80"
+                ],
+                [
+                  "133",
+                  "44",
+                  "13 “",
+                  "1,431.00",
+                  "1661",
+                  "19",
+                  "27 “",
+                  "62.10"
+                ],
+                [
+                  "176",
+                  "55",
+                  "20 “",
+                  "2,486.00",
+                  "1672",
+                  "40",
+                  "11 “",
+                  "25.70"
+                ],
+                [
+                  "209",
+                  "39",
+                  "16 “",
+                  "1,964.00",
+                  "1676",
+                  "23",
+                  "23 “",
+                  "52.90"
+                ],
+                [
+                  "223",
+                  "50",
+                  "20 “",
+                  "2,364.00",
+                  "1688",
+                  "23",
+                  "11 “",
+                  "25.70"
+                ],
+                [
+                  "260",
+                  "47",
+                  "16 “",
+                  "2,112.00",
+                  "1690",
+                  "23",
+                  "27 “",
+                  "62.10"
+                ],
+                [
+                  "278",
+                  "49",
+                  "10 “",
+                  "1,424.00",
+                  "1691",
+                  "37",
+                  "20 “",
+                  "46.00"
+                ],
+                [
+                  "319",
+                  "53",
+                  "10 “",
+                  "1,247.00",
+                  "1699",
+                  "30",
+                  "28 “",
+                  "64.40"
+                ],
+                [
+                  "347",
+                  "58",
+                  "14 “",
+                  "1,644.00",
+                  "1705",
+                  "24",
+                  "17 “",
+                  "39.10"
+                ],
+                [
+                  "367",
+                  "40",
+                  "12 “",
+                  "1,444.00",
+                  "1706",
+                  "55",
+                  "10 “",
+                  "23.00"
+                ],
+                [
+                  "400",
+                  "43",
+                  "14 “",
+                  "1,644.00",
+                  "1709",
+                  "17",
+                  "10 “",
+                  "23.00"
+                ],
+                [
+                  "425",
+                  "48",
+                  "13 “",
+                  "2,112.00",
+                  "1715",
+                  "19",
+                  "40 “",
+                  "92.00"
+                ],
+                [
+                  "431",
+                  "36",
+                  "13 “",
+                  "1,412.00",
+                  "1716",
+                  "35",
+                  "48 “",
+                  "110.40"
+                ],
+                [
+                  "435",
+                  "55",
+                  "15 “",
+                  "1,712.00",
+                  "1728",
+                  "52",
+                  "55 “",
+                  "126.50"
+                ],
+                [
+                  "488",
+                  "37",
+                  "17 “",
+                  "1,912.00",
+                  "1737",
+                  "30",
+                  "33 “",
+                  "75.90"
+                ],
+                [
+                  "",
+                  "",
+                  "454 yrs.",
+                  "$54,157.00",
+                  "",
+                  "",
+                  "635 wks.",
+                  "$1461.30"
+                ]
+              ],
+              "header_row": true,
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "table",
+              "rows": [
+                [
+                  "Average expense of old cases",
+                  "$2,166.20"
+                ],
+                [
+                  "Whole expense of 25 old cases",
+                  "54,157.00"
+                ],
+                [
+                  "Average expense of recent cases",
+                  "58.45"
+                ],
+                [
+                  "Whole expense of 25 recent cases till recovered",
+                  "1,461.30"
+                ]
+              ],
+              "id": "f003-s-u04"
+            }
+          ],
+          "notes": [
+            "The two panels are adjacent columns of one printed table. Ditto marks and printed totals are retained."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f004",
+      "frame": 4,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n113/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n113/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n113/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "5a890f3db9c49db8e0eb3591780611b84bba018c46a7a44c38dbba01156b58e2"
+      },
+      "parts": [
+        {
+          "id": "f004-s",
+          "side": "S",
+          "printed_page": "108",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "“The results of this table are so striking, and show\nso conclusively the importance of early admission to\nthe insane hospitals, that many other institutions have\ninstituted the same inquiry with similar results.” (See\nReport of the Worcester Lunatic Hospital for 1843.)\n\nThe report contains no assertion that the twenty-five\nrecent cases were permanently cured; neither does it\nallude to the probability, or the possibility, that any\none of the persons might again become insane: hence\nthe almost inevitable impression left upon the mind of\nthe general reader by a perusal of the table would be\nthat the twenty-five persons whose insanity was recent\nhad never before been insane; and that now, on the first\nattack of that disease, they were returned to their homes\nand to society fully and permanently restored to mental\nsoundness. Indeed, the whole illustrative force of the\ntable depends upon the assumption that they were per-\nmanently cured. Furthermore, coupled with this im-\npression would be the inference that, if the twenty-five\npersons whose disease was chronic had been taken to a\nhospital in the early stages of their mental unsoundness,\nthey, too, would have been cured,—an inference the\ntruth of which is wholly improbable. Then follows the\npractical deduction: If you send your insane friend early\nto the hospital, his cure will cost but $58.45; if you\nneglect such early action, his support, while insane, will\ncost at least $2166.20. This deduction was, apparently,\nthe whole ostensible object of the table.\n\nTaking, then, these twenty-five persons, so happily,\nso quickly, and so cheaply withal, redeemed, by resto-\nration, from one of the greatest ills that flesh is heir to,\nlet us, while learning something of their antecedent his-",
+              "id": "f004-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f005",
+      "frame": 5,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n114/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n114/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n114/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "8af72679b3753d795845eb08a7f9621cc85e4716cb93e3c76e7515dfe6ed8c4e"
+      },
+      "parts": [
+        {
+          "id": "f005-s",
+          "side": "S",
+          "printed_page": "109",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "tory, go forth with them from the hospital, and, so far\nas is practicable, follow them to the present time, if they\nstill are living, or through their subsequent life, if that\nlife be ended.\n\nTHE TWENTY-FIVE RECENT CASES RECOVERED.—\nNo. 1622.—This was a man, and this was his second\nattack of insanity, but his first admission to the hos-\npital. He was discharged recovered, as in the table,\nMay 1, 1843. Within about three weeks after the table\nwas made,* and on the 20th of December, 1843, he was\nagain committed to the hospital. He remained a little\nmore than three months, and was again discharged\nrecovered March 25, 1844.\n\nHe afterwards married, and it is believed that he has\nnever been insane since he left the hospital. He was\nwell, and living with his family, one year ago, as he\nprobably is now. This information comes from one of\nhis friends who visited him in 1878.\n\nNo. 1624.—A woman. This was her second attack\nof insanity, the first one having occurred two years be-\nfore her admission to the hospital. The case is recorded\nas periodical and suicidal. She was discharged recov-\nered, as in the table, June 21, 1843. An informant\nwrites me, September, 1879,—“She is living, and is\napparently in good health. I was not able to find out\nwhether she ever became insane again or not.”\n\n* It is assumed that the table was made on the 1st of Decem-\nber, because the official year ended with the 30th of November.\nIt could not have been made before the 28th of November, be-\ncause two of the patients represented in it were discharged on\nthat day. Eight of the others were discharged in the course of\nthat month.",
+              "id": "f005-s-u01"
+            }
+          ],
+          "notes": [
+            "The asterisked footnote is included after the body text on this page."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f006",
+      "frame": 6,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n115/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n115/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n115/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "5e5dba34edd9576aca7298ccbc9959af7896f096d5d1bf285d1e1fe1208afd98"
+      },
+      "parts": [
+        {
+          "id": "f006-s",
+          "side": "S",
+          "printed_page": "110",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "No. 1625.—A man. This was his second admission\ninto the hospital. He was admitted the first time in\nJuly, 1840. He remained less than two months, and\nwas discharged recovered September 17, 1840. He was\ndischarged recovered the second time, as in the table,\nSeptember 25, 1843. He was admitted the third time\nJanuary 8, 1851, and nearly eight months afterwards,\non the 29th of August, 1851, discharged recovered for\nthe third time.\n\nHis father and a son were insane. On his third\nadmission, his case is recorded as “periodical, once in\nabout four or five years.” Hence it appears that there\nmust have been one attack between the last two admis-\nsions to the hospital.\n\nSince the foregoing was written, I have learned that\nhe had another attack in 1859, which lasted nearly a\nyear. He was not taken to a hospital, but was cared\nfor at home. After recovery he remained well until\n1872, when he died of cholera morbus.\n\nHis wife, and the son above mentioned, were patients\nat the Worcester Hospital, and the former died there.\n\nNo. 1635.—A man. Insanity is hereditary in his\nfamily. He was discharged recovered, as in the table,\nOctober 11, 1843. He still lives and is in business.\nOne of his relatives states (1879) that he “has not\nbeen insane since he left the Worcester Hospital;”\nand that he “is somewhat eccentric, but in no wise\ninsane.”\n\nNo. 1642.—A man. The case is recorded as hered-\nitary and suicidal. Discharged recovered, as in the\ntable, June 21, 1843. He was admitted again No-\nvember 19, 1844, and discharged recovered, the second",
+              "id": "f006-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f007",
+      "frame": 7,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n116/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n116/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n116/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "7cf41ca5f35b7124f5cb8eb9fae462f6761e04111d326a05dec7065de8a7d9e0"
+      },
+      "parts": [
+        {
+          "id": "f007-s",
+          "side": "S",
+          "printed_page": "111",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "time, February 18, 1845. He was admitted the third\ntime July 14, 1856, and died within less than thirty-\nsix hours afterwards.\n\nOn his last admission, it is recorded that a sister and\na brother were insane, and that his son “hung himself\none year ago.”\n\nNo. 1643.—A woman. Her father was insane, and she\nhad had two previous attacks of insanity, “some twenty\nyears ago, in two successive springs.” After a residence\nof a little more than three months in the hospital, she\nwas discharged recovered, as in the table, July 1, 1843.\n\nHer subsequent history is related to me, in dialogue\nform, by a correspondent who received it in conversa-\ntion with one of the nearest relatives of the woman, and\na member of her family.\n\nQuestion. “Was she cured at the hospital?”\n\nAnswer. “Oh, no. She was just the same as she had\npreviously been; very despondent most of the time; and\nshe was constantly watched,—not that we feared her\ndoing harm to others, but that she might harm herself.”\n\nQuestion. “There was no change, after her going to\nthe hospital, in her condition from what it had been\npreviously?”\n\nAnswer. “Oh, no. She continued the same until\nher death, in 1854.”\n\nQuestion. “What was the cause of her death?”\n\nAnswer. “She was run over by the cars. Most\npeople thought it might have been by accident, but we\ncould not tell.”\n\nNo. 1645.—A woman. This was her third admission\nto the hospital, and she was admitted four times after-\nwards. Her record is as follows:",
+              "id": "f007-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f008",
+      "frame": 8,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n117/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n117/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n117/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "1babcc3045d5a1ce60807c0b3a8e697286ad39a25203220861b0fe26cce8aa2e"
+      },
+      "parts": [
+        {
+          "id": "f008-s",
+          "side": "S",
+          "printed_page": "112",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "First admission, August 2, 1838; discharged recovered\nJanuary 10, 1839.\n\nSecond admission, April 26, 1840; discharged re-\ncovered November 6, 1840.\n\nThird admission, April 29, 1843; discharged recov-\nered, as in the table, November 1, 1843.\n\nFourth admission, May 31, 1845; discharged recov-\nered June 23, 1846.\n\nFifth admission, January 25, 1849; discharged re-\ncovered May 8, 1851.\n\nSixth admission, November 6, 1855; discharged re-\ncovered May 13, 1856.\n\nSeventh admission, January 12, 1857; died at the\nhospital, of “old age,“April 22, 1857.\n\nIt is recorded, on her second admission, that her\ninsanity was hereditary and periodical; and, on her\nfifth admission, that two of her brothers and one sister\nwere insane.\n\nNo. 1649.—A man. Admitted May 10, 1843; dis-\ncharged recovered, as in the table, November 17, 1843.\nAn informant writes that he is now living and well;\nand that he “has shown no signs of his previous\ntrouble for a number of years.” As it is nearly thirty-\nsix years since he left the hospital, this language would\nseem to imply that he has shown signs of the disorder\nsince the time of discharge.\n\nNo. 1650.—A woman. Admitted May 11, 1843;\ndischarged recovered, as in the table, September 12,\n1843. She is still living, and “has never shown any\nsymptoms of insanity since she left the hospital.”\n\nNo. 1658.—A woman whose mother was insane.\nShe was admitted May 22, 1843, and discharged re-",
+              "id": "f008-s-u01"
+            }
+          ],
+          "notes": [
+            "The last line reads 1843 in the image."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f009",
+      "frame": 9,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n118/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n118/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n118/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "5bc575702feabfc3fd0e7603f591c584992bab1c458b494a4f1acc0861023bba"
+      },
+      "parts": [
+        {
+          "id": "f009-s",
+          "side": "S",
+          "printed_page": "113",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "covered, as in the table, July 27, 1843. In about two\nweeks after the table was made, and on the 13th of\nDecember, 1843, she was again committed to the hos-\npital. She was discharged recovered, the second time,\nMarch 15, 1844.\n\nSince she left the hospital she has had two attacks of\ninsanity, one of them following childbirth; but they\nwere not severe nor of long duration, and she was not\ntaken to a hospital. She is now living and well, the\nmother of twelve children, ten of whom are living.\n\nNo. 1660.—A woman,* whose mother and a sister\nwere insane. This was her second term of treatment\nin the hospital. Her first admission was on the 14th of\nFebruary, 1840. She remained until May 26, 1840,\nand was then discharged recovered.\n\nHer second admission—the one in the table—was on\nthe 23d of May, 1843. She was discharged recovered,\nas in the table, August 23, 1843.\n\nAfter an absence of very nearly three years, she was\nadmitted the third time, August 11, 1846. Within less\nthan six weeks, and on the 17th of September, 1846,\nshe was discharged recovered for the third time.\n\nShe died at home, in 1849, “aged about twenty-eight\nyears.”\n\nNo. 1661.—A young woman, whose insanity is re-\ncorded as hereditary. She was admitted May 24,\n1843, and discharged recovered, as in the table, No-\nvember 7, 1843. She was admitted again May 10,\n\n* Information received since the original publication of this\nstudy has enabled me to make the history of this case more\naccurate than it was at that time.",
+              "id": "f009-s-u01"
+            }
+          ],
+          "notes": [
+            "The asterisked footnote is included after the body text on this page."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f010",
+      "frame": 10,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n119/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n119/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n119/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "c44aacee7c1c57f6d6129b2c368e341db27b573a45c59de0a9f13196d1eef118"
+      },
+      "parts": [
+        {
+          "id": "f010-s",
+          "side": "S",
+          "printed_page": "114",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "1847, and discharged recovered, the second time, Sep-\ntember 30, 1847. Admitted the third time, December\n3, 1849, and discharged recovered, the third time, March\n20, 1850.\n\nI am informed that she “again became insane, and\nwent to the hospital in New Hampshire;” this was on\nthe 14th of December, 1853. She was removed to the\nMcLean Asylum, September 6, 1854, “where she re-\nmained, insane, until her death, July 5, 1867. Age,\nforty-four years.”\n\nNo. 1672.—A man. His disease is recorded as peri-\nodical in the table on page 24 of the Worcester report\nfor 1843. He was admitted June 10, 1843, and dis-\ncharged recovered, as in the table, August 18, 1843.\nHe is now (1879) in the almshouse of a town, an officer\nof which writes to me as follows: “He never was cured.\nHe is a foolish, harmless fellow. He was taken from\nthe hospital (in 1843) to our almshouse, where he now\nis, in fair health, able to do very little light work; simple\nand harmless when pleased, but ugly when crossed very\nmuch.”\n\nNo. 1676.—A woman. This was her third attack of\ninsanity, and her second admission to the hospital. Her\nfirst admission was on the 24th of May, 1842. She was\ndischarged recovered July 4, 1842. The second admis-\nsion, as in the table, was on the 13th of June, 1843.\nShe was discharged recovered November 16, 1843. I\nam informed that she “remained well, after her return\nfrom the hospital, as long as she lived, which was not\nmany years. I think she died about 1850.”\n\nNo. 1688.—A young woman. This was her fourth\nadmission to the hospital. Her first admission was on",
+              "id": "f010-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f011",
+      "frame": 11,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n120/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n120/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n120/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "36ca169db4edc28ec7ec3c11c23d50f92999567430de5846c1a9d784c9de4eca"
+      },
+      "parts": [
+        {
+          "id": "f011-s",
+          "side": "S",
+          "printed_page": "115",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "August 20, 1836. She was discharged recovered Octo-\nber 28, 1836. Her second admission was on January\n19, 1839; discharged recovered July 4, 1839. Third\nadmission, August 7, 1840; discharged recovered No-\nvember 25, 1840. At this admission her case was re-\ncorded as periodical. Her fourth admission was on June\n30, 1843. She was discharged, as in the table, recov-\nered, for the fourth time, September 11, 1843. On the\nlast admission it is stated that she was twenty-two years\nof age; consequently she could have been but fifteen at\nthe time of her first admission. After her fourth re-\ncovery and departure from the hospital, I am informed\nthat “she married, went West, lived with her husband\nsome years, and was in an insane asylum out there.”\n\nHaving returned to Massachusetts, she was admitted\ninto the Taunton Lunatic Hospital, March 18, 1864,\nand discharged therefrom, recovered, November 30,\n1864. She was committed to the Worcester Hospital\nfor the fifth time, August 5, 1865, and nearly two years\nafterwards, on the 28th of June, 1867, was discharged\nnot improved. She was taken directly to the almshouse\nof the town which supports her, and there she still re-\nmains. “She works in the family, and is quiet,“writes\nmy informant; “but at times is wild.”\n\nNo. 1690.—A young woman. Admitted July 5,\n1843, and discharged recovered, as in the table, Oc-\ntober 21, 1843. About five years afterwards, in 1848,\nshe died of consumption, not having been insane after\nshe left the hospital.\n\nNo. 1691.—A woman. Admitted July 8, 1843, and\ndischarged recovered, as in the table, October 16, 1843.\nShe died on the second anniversary of her discharge,",
+              "id": "f011-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f012",
+      "frame": 12,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n121/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n121/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n121/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "415e2eb5f3a5bea5d76a4665bd9f6f7980b469df71d195151560a95722837d71"
+      },
+      "parts": [
+        {
+          "id": "f012-s",
+          "side": "S",
+          "printed_page": "116",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "October 16, 1845. I am not informed whether her in-\nsanity reappeared. Probably it did not.\n\nNo. 1699.—A man. Admitted July 20, 1843, and\ndischarged recovered, as in the table, November 15,\n1843. Of his subsequent condition, one of his nearest\nrelatives writes (1879) as follows: “He has never been\nwhat we call insane since he came home; but he has\nhad spells of nervous excitement, when he would not\nsleep well, and then he would be full of his talk, and\nvery nervous, for from four to six weeks. He is never\nviolent, but easily excited if he is opposed. His nervous\nspells are generally once a year, not always, and then in\ncold weather. We feel anxious about him, fearing he\nmay be insane.”\n\nNo. 1705.—A woman. Admitted July 25, 1843, and\ndischarged recovered, as in the table, November 27, 1843.\nShe was admitted the second time July 5, 1848, and dis-\ncharged recovered December 5, 1848. Admitted the\nthird time December 27, 1851, and discharged recov-\nered, for the third time, July 16, 1852. On the 19th\nof July, 1856, she was admitted into the Taunton Lu-\nnatic Hospital, where she died of consumption on the\n17th of October of the same year.\n\nNo. 1706.—A woman. This was her second attack\nof insanity, the first having occurred in 1823. She\nwas admitted July 26, 1843, and discharged recovered,\nas in the table, September 26, 1843. She remained\nsane during the rest of her life, and died February 8,\n1869, aged eighty years.\n\nNo. 1709.—A young man. Admitted August 7,\n1843. The record on admission states that “he has\nhad previous attacks,“and that “he has a brother",
+              "id": "f012-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f013",
+      "frame": 13,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n122/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n122/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n122/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "37d6756c8741d5dbda82a894aa2965d95676a3b901103c0e8a4cfa62ce328a08"
+      },
+      "parts": [
+        {
+          "id": "f013-s",
+          "side": "S",
+          "printed_page": "117",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "insane now;” and in the table on page 25 of the\nWorcester report for 1843, his case is called periodical.\nHe was discharged recovered, as in the table, September\n26, 1843. Ten days afterwards, on the 6th of October,\n1843, he was admitted the second time. This must\nhave been several weeks before the table was finished,\nbecause the official year did not end until November\n30, and no less than thirteen of the other patients\nreferred to in the table were discharged after the 6th\nof October.\n\nHe was discharged the second time improved, Janu-\nary 11, 1844. The records of this admission state that\nhe “received an injury on the head many years since,\nfrom which he never entirely recovered.” Although\ndischarged the last time only “improved,“he after-\nwards became so well that he married. He subse-\nquently left New England, and died somewhere in the\nMiddle or the Southern States. It is not known that\nhe ever had another attack of insanity after he left the\nhospital; but a person who knew him well from early\nlife, while he remained in New England, says that “he\nwas always a weak-minded man.”\n\nNo. 1715.—A young woman. This was her second\nadmission into the hospital in 1843, and she was ad-\nmitted three times afterwards; and, on this admission,\nthe case is called periodical in the table on page 25 of\nthe report for 1843. Her record is as follows; First ad-\nmission, April 8, 1843; discharged improved June 12,\n1843. Second admission, August 16, 1843; discharged\nrecovered November 28, 1843. Third admission, Feb-\nruary 18, 1846; discharged recovered June 30, 1846.\nFourth admission, November 13, 1846; discharged re-",
+              "id": "f013-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f014",
+      "frame": 14,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n123/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n123/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n123/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "993575b06c555599189110e42bd2210771bd0b22b81659859d2b1d1260856d78"
+      },
+      "parts": [
+        {
+          "id": "f014-s",
+          "side": "S",
+          "printed_page": "118",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "covered June 15, 1847. Fifth admission, October 19,\n1847; discharged recovered July 12, 1852.\n\nHer last term of residence in the hospital, as will be\nperceived, was more than four years and eight months.\nThe record of her second admission says that she “has\nhad fits,“and that her “mind (is) not sound at any\ntime.” On the third admission it is recorded that the\ncase is periodical, and that “for three weeks past (she)\nhas had frequent convulsive fits daily.”\n\nThis case is as interesting as it is remarkable. Not-\nwithstanding the foregoing history, she has since mar-\nried, and borne two children, and is now living and well.\n\nNo. 1716.—A woman. The earliest information we\nhave of her is, that on April 30, 1830, at the age of\ntwenty-one years, she was admitted into the McLean\nAsylum. She was discharged therefrom, July 31, 1830,\nmuch improved. She was admitted at the Worcester\nHospital, as in the table, August 18, 1843. The rec-\nords state that this was her fourth attack of insanity,\nand that each attack followed childbirth. She was\ndischarged recovered November 28, 1843.\n\nOn the 30th of April, 1849, she was admitted at the\nButler Hospital, Providence, Rhode Island, where she\nremained seventeen months. She was removed thence,\nby her husband, October 8, 1850; and four days after-\nwards, on the 12th of October, 1850, she was admitted\nthe second time at the Worcester Hospital. The rec-\nords of this admission contain the following statements:\n“Insane for twenty years; was here seven years ago;\nnow has not worked for more than three years.” She\ndied at the Worcester Hospital, of consumption, March\n6, 1851.",
+              "id": "f014-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f015",
+      "frame": 15,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n124/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n124/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n124/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "ed8bf03baa2633c1f8571d96f4ee0f0707f77eba12f0dd4eb1adf8f1dd6e52ca"
+      },
+      "parts": [
+        {
+          "id": "f015-s",
+          "side": "S",
+          "printed_page": "119",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "No. 1728.—A woman. Admitted September 7, 1843.\nThe records state that she had had “occasional symp-\ntoms of derangement for ten years,“and that the dis-\nease was hereditary. She was discharged recovered, as\nin the table, November 23, 1843. She was not ad-\nmitted again; but I have learned through her relatives\nthat no permanent benefit was derived from her treat-\nment in the hospital. Says my informant, “She had\nbeen at home from the asylum but very few days before\nshe was as bad as before going,“and “her mental con-\ndition remained the same throughout life.” She died\nof consumption November 5, 1854.\n\nNo. 1737.—A woman. Admitted September 23, 1843.\nHer disease is recorded as hereditary, and she had a\nbrother in the Worcester Hospital. She was discharged,\nas in the table, recovered November 22, 1843.\n\nShe is still living. My informant writes of her as\nfollows: “She was and is a Second-Advent woman.\nShe believes that there is no salvation except through\nher creed, and in so far is a monomaniac in religion;\nbut is right in all other respects, and is in excellent\nhealth, as she has been always since her discharge\nfrom the hospital in 1843.”\n\nAnd so we come to the end of the table, and—to an\nend of its argument. Time and history sometimes deal\nrudely with the most sanguine hopes and the most beau-\ntiful devices of men. The really surprising results of\nthis investigation are suggestive of extended comment,\nbut they must be dismissed by a brief reference to one\nor two points.\n\n1. Of all the hitherto-published representations of the\ncurability of insanity, the most unfavorable is that of",
+              "id": "f015-s-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f016",
+      "frame": 16,
+      "source": {
+        "canvas": "https://archive.org/details/39002086346526.med.yale.edu/page/n125/mode/1up",
+        "url": "https://archive.org/download/39002086346526.med.yale.edu/page/n125/mode/1up",
+        "original_url": "https://archive.org/download/39002086346526.med.yale.edu/page/n125/mode/1up",
+        "size": [
+          1503,
+          2302
+        ],
+        "sha256": "2a3dc3a1695ddb3e635f48bd0f79944ca91a4385bedb3c50b4236c5ee61e9f9b"
+      },
+      "parts": [
+        {
+          "id": "f016-s",
+          "side": "S",
+          "printed_page": "120",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "prose",
+              "text": "the late Dr. Thurnam, whose general formula is given\nin Study First, page 60.\n\nLet us compare the results in these twenty-five per-\nsons, recovered at the Worcester Hospital, with that\nformula. According to the latter part of the formula,\nof the twenty-five persons,—\n\n(a) Ten should never have a second attack;\n\n(b) Fifteen should have a second attack and perhaps\nmore; and\n\n(c) Of these fifteen, ten should die insane.\n\nBut we find that, in fact, admitting that the twenty-\nfive reported recoveries were recoveries, then, under the\nmost favorable construction, there were of the twenty-\nfive—\n\n(a) Only seven who did not have a second attack;\n\n(b) Eighteen had more than one attack;\n\n(c) As so many are still living, it is impossible to say\nwhat will be the final result in regard to the number\ndying insane. But already five have died insane at the\nhospitals, and two have died insane at home, making a\ntotal of seven. Two others are at almshouses, both hav-\ning for a long period been incurably insane (they will\nundoubtedly die so), and one has died at home, who\n“was never well [sane] but a few months at a time.”\n\nIt is no exaggeration of the unpleasant aspect of these\nresults, to say that they are no more favorable than Dr.\nThurnam’s formula represents. They are, indeed, less\nfavorable, but their near approximation to that formula\nis somewhat remarkable.\n\n2. Can our statisticians, philanthropists, and states-\nmen longer be surprised that the hospitals do not put\na stop to the increase of insanity?",
+              "id": "f016-s-u01"
+            }
+          ],
+          "notes": [
+            "The next independent section, “Dr. Ray’s Essay,” begins on the next printed page."
+          ]
+        }
+      ]
+    }
+  ],
+  "source_rights_url": "https://www.copyright.gov/what-is-copyright/index.html"
+}
